@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1658.71 810">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f87112;
+      }
+
+      .cls-2 {
+        fill: #f47215;
+      }
+
+      .cls-3 {
+        fill: #fb7011;
+      }
+
+      .cls-4 {
+        fill: #00b493;
+      }
+
+      .cls-5 {
+        fill: #02b392;
+      }
+
+      .cls-6 {
+        fill: #f07317;
+      }
+
+      .cls-7 {
+        fill: #ed7418;
+      }
+
+      .cls-8 {
+        fill: #f27316;
+      }
+
+      .cls-9 {
+        fill: #f67114;
+      }
+
+      .cls-10 {
+        fill: #eb7419;
+      }
+
+      .cls-11 {
+        fill: #e9751a;
+      }
+
+      .cls-12 {
+        fill: #e5761d;
+      }
+
+      .cls-13 {
+        fill: #fd7010;
+      }
+
+      .cls-14 {
+        fill: #e7761c;
+      }
+
+      .cls-15 {
+        fill: #ff6f0f;
+      }
+
+      .cls-16 {
+        fill: #918d48;
+      }
+
+      .cls-17 {
+        fill: #7d9252;
+      }
+
+      .cls-18 {
+        fill: #6a975c;
+      }
+
+      .cls-19 {
+        fill: #67985e;
+      }
+
+      .cls-20 {
+        fill: #988b44;
+      }
+
+      .cls-21 {
+        fill: #7f9251;
+      }
+
+      .cls-22 {
+        fill: #9c8a42;
+      }
+
+      .cls-23 {
+        fill: #9e8941;
+      }
+
+      .cls-24 {
+        fill: #84904f;
+      }
+
+      .cls-25 {
+        fill: #b68335;
+      }
+
+      .cls-26 {
+        fill: #8a8f4b;
+      }
+
+      .cls-27 {
+        fill: #b98233;
+      }
+
+      .cls-28 {
+        fill: #a08940;
+      }
+
+      .cls-29 {
+        fill: #b48336;
+      }
+
+      .cls-30 {
+        fill: #8f8d49;
+      }
+
+      .cls-31 {
+        fill: #65995f;
+      }
+
+      .cls-32 {
+        fill: #729558;
+      }
+
+      .cls-33 {
+        fill: #bb8132;
+      }
+
+      .cls-34 {
+        fill: #8d8e4a;
+      }
+
+      .cls-35 {
+        fill: #938c47;
+      }
+
+      .cls-36 {
+        fill: #cf7c28;
+      }
+
+      .cls-37 {
+        fill: #ae8539;
+      }
+
+      .cls-38 {
+        fill: #a7873d;
+      }
+
+      .cls-39 {
+        fill: #a9863b;
+      }
+
+      .cls-40 {
+        fill: #a5873e;
+      }
+
+      .cls-41 {
+        fill: #b28437;
+      }
+
+      .cls-42 {
+        fill: #bd8131;
+      }
+
+      .cls-43 {
+        fill: #ab863a;
+      }
+
+      .cls-44 {
+        fill: #b08438;
+      }
+
+      .cls-45 {
+        fill: #bf8030;
+      }
+
+      .cls-46 {
+        fill: #c1802f;
+      }
+
+      .cls-47 {
+        fill: #ca7d2a;
+      }
+
+      .cls-48 {
+        fill: #d17b27;
+      }
+
+      .cls-49 {
+        fill: #cc7d29;
+      }
+
+      .cls-50 {
+        fill: #d37b26;
+      }
+
+      .cls-51 {
+        fill: #e0771f;
+      }
+
+      .cls-52 {
+        fill: #c47f2e;
+      }
+
+      .cls-53 {
+        fill: #da7922;
+      }
+
+      .cls-54 {
+        fill: #d57a25;
+      }
+
+      .cls-55 {
+        fill: #de7820;
+      }
+
+      .cls-56 {
+        fill: #c67e2d;
+      }
+
+      .cls-57 {
+        fill: #dc7921;
+      }
+
+      .cls-58 {
+        fill: #e2771e;
+      }
+
+      .cls-59 {
+        fill: #c87e2b;
+      }
+
+      .cls-60 {
+        fill: #d77a23;
+      }
+
+      .cls-61 {
+        fill: #0fb08b;
+      }
+
+      .cls-62 {
+        fill: #14af89;
+      }
+
+      .cls-63 {
+        fill: #23aa81;
+      }
+
+      .cls-64 {
+        fill: #1dac84;
+      }
+
+      .cls-65 {
+        fill: #21ab82;
+      }
+
+      .cls-66 {
+        fill: #1fac83;
+      }
+
+      .cls-67 {
+        fill: #07b290;
+      }
+
+      .cls-68 {
+        fill: #40a372;
+      }
+
+      .cls-69 {
+        fill: #04b391;
+      }
+
+      .cls-70 {
+        fill: #12af8a;
+      }
+
+      .cls-71 {
+        fill: #0db08c;
+      }
+
+      .cls-72 {
+        fill: #1aad85;
+      }
+
+      .cls-73 {
+        fill: #35a678;
+      }
+
+      .cls-74 {
+        fill: #42a271;
+      }
+
+      .cls-75 {
+        fill: #09b28e;
+      }
+
+      .cls-76 {
+        fill: #18ad86;
+      }
+
+      .cls-77 {
+        fill: #16ae88;
+      }
+
+      .cls-78 {
+        fill: #3ea373;
+      }
+
+      .cls-79 {
+        fill: #0bb18d;
+      }
+
+      .cls-80 {
+        fill: #a3883f;
+      }
+
+      .cls-81 {
+        fill: #709659;
+      }
+
+      .cls-82 {
+        fill: #958c46;
+      }
+
+      .cls-83 {
+        fill: #86904e;
+      }
+
+      .cls-84 {
+        fill: #9a8a43;
+      }
+
+      .cls-85 {
+        fill: #888f4c;
+      }
+
+      .cls-86 {
+        fill: #6e965a;
+      }
+
+      .cls-87 {
+        fill: #6c975b;
+      }
+
+      .cls-88 {
+        fill: #549d68;
+      }
+
+      .cls-89 {
+        fill: #639960;
+      }
+
+      .cls-90 {
+        fill: #5a9c64;
+      }
+
+      .cls-91 {
+        fill: #589c65;
+      }
+
+      .cls-92 {
+        fill: #2aa97d;
+      }
+
+      .cls-93 {
+        fill: #49a06d;
+      }
+
+      .cls-94 {
+        fill: #28a97f;
+      }
+
+      .cls-95 {
+        fill: #2ea87b;
+      }
+
+      .cls-96 {
+        fill: #30a77a;
+      }
+
+      .cls-97 {
+        fill: #39a575;
+      }
+
+      .cls-98 {
+        fill: #33a679;
+      }
+
+      .cls-99 {
+        fill: #37a577;
+      }
+
+      .cls-100 {
+        fill: #569d67;
+      }
+
+      .cls-101 {
+        fill: #2ca87c;
+      }
+
+      .cls-102 {
+        fill: #3ba474;
+      }
+
+      .cls-103 {
+        fill: #619a61;
+      }
+
+      .cls-104 {
+        fill: #5f9a62;
+      }
+
+      .cls-105 {
+        fill: #5c9b63;
+      }
+
+      .cls-106 {
+        fill: #44a270;
+      }
+
+      .cls-107 {
+        fill: #799354;
+      }
+
+      .cls-108 {
+        fill: #4ba06c;
+      }
+
+      .cls-109 {
+        fill: #46a16f;
+      }
+
+      .cls-110 {
+        fill: #519e69;
+      }
+
+      .cls-111 {
+        fill: #4f9f6a;
+      }
+
+      .cls-112 {
+        fill: #759457;
+      }
+
+      .cls-113 {
+        fill: #829150;
+      }
+
+      .cls-114 {
+        fill: #779456;
+      }
+
+      .cls-115 {
+        fill: #25aa80;
+      }
+
+      .cls-116 {
+        fill: #7b9353;
+      }
+
+      .cls-117 {
+        fill: #4d9f6b;
+      }
+    </style>
+  </defs>
+  <rect class="cls-15" width="7.13" height="810"/>
+  <rect class="cls-13" x="14.24" width="7.13" height="810"/>
+  <rect class="cls-3" x="28.48" width="7.13" height="810"/>
+  <rect class="cls-1" x="42.71" width="7.13" height="810"/>
+  <rect class="cls-9" x="56.95" width="7.13" height="810"/>
+  <rect class="cls-2" x="71.19" width="7.13" height="810"/>
+  <rect class="cls-8" x="85.43" width="7.13" height="810"/>
+  <rect class="cls-6" x="99.66" width="7.13" height="810"/>
+  <rect class="cls-7" x="113.9" width="7.13" height="810"/>
+  <rect class="cls-10" x="128.14" width="7.13" height="810"/>
+  <rect class="cls-11" x="142.38" width="7.13" height="810"/>
+  <rect class="cls-14" x="156.62" width="7.13" height="810"/>
+  <rect class="cls-12" x="170.85" width="7.13" height="810"/>
+  <rect class="cls-58" x="185.09" width="7.13" height="810"/>
+  <rect class="cls-51" x="199.33" width="7.13" height="810"/>
+  <rect class="cls-55" x="213.57" width="7.13" height="810"/>
+  <rect class="cls-57" x="227.8" width="7.13" height="810"/>
+  <rect class="cls-53" x="242.04" width="7.13" height="810"/>
+  <rect class="cls-60" x="256.28" width="7.13" height="810"/>
+  <rect class="cls-54" x="270.52" width="7.13" height="810"/>
+  <rect class="cls-50" x="284.76" width="7.13" height="810"/>
+  <rect class="cls-48" x="298.99" width="7.13" height="810"/>
+  <rect class="cls-36" x="313.23" width="7.13" height="810"/>
+  <rect class="cls-49" x="327.47" width="7.13" height="810"/>
+  <rect class="cls-47" x="341.71" width="7.13" height="810"/>
+  <rect class="cls-59" x="355.95" width="7.13" height="810"/>
+  <rect class="cls-56" x="370.18" width="7.13" height="810"/>
+  <rect class="cls-52" x="384.42" width="7.13" height="810"/>
+  <rect class="cls-46" x="398.66" width="7.13" height="810"/>
+  <rect class="cls-45" x="412.9" width="7.13" height="810"/>
+  <rect class="cls-42" x="427.13" width="7.13" height="810"/>
+  <rect class="cls-33" x="441.37" width="7.13" height="810"/>
+  <rect class="cls-27" x="455.61" width="7.13" height="810"/>
+  <rect class="cls-25" x="469.85" width="7.13" height="810"/>
+  <rect class="cls-29" x="484.09" width="7.13" height="810"/>
+  <rect class="cls-41" x="498.32" width="7.13" height="810"/>
+  <rect class="cls-44" x="512.56" width="7.13" height="810"/>
+  <rect class="cls-37" x="526.8" width="7.13" height="810"/>
+  <rect class="cls-43" x="541.04" width="7.13" height="810"/>
+  <rect class="cls-39" x="555.27" width="7.13" height="810"/>
+  <rect class="cls-38" x="569.51" width="7.13" height="810"/>
+  <rect class="cls-40" x="583.75" width="7.13" height="810"/>
+  <rect class="cls-80" x="597.99" width="7.13" height="810"/>
+  <rect class="cls-28" x="612.23" width="7.13" height="810"/>
+  <rect class="cls-23" x="626.46" width="7.13" height="810"/>
+  <rect class="cls-22" x="640.7" width="7.13" height="810"/>
+  <rect class="cls-84" x="654.94" width="7.13" height="810"/>
+  <rect class="cls-20" x="669.18" width="7.13" height="810"/>
+  <rect class="cls-82" x="683.41" width="7.13" height="810"/>
+  <rect class="cls-35" x="697.65" width="7.13" height="810"/>
+  <rect class="cls-16" x="711.89" width="7.13" height="810"/>
+  <rect class="cls-30" x="726.13" width="7.13" height="810"/>
+  <rect class="cls-34" x="740.37" width="7.13" height="810"/>
+  <rect class="cls-26" x="754.6" width="7.13" height="810"/>
+  <rect class="cls-85" x="768.84" width="7.13" height="810"/>
+  <rect class="cls-83" x="783.08" width="7.13" height="810"/>
+  <rect class="cls-24" x="797.32" width="7.13" height="810"/>
+  <rect class="cls-113" x="811.56" width="7.13" height="810"/>
+  <rect class="cls-21" x="825.79" width="7.13" height="810"/>
+  <rect class="cls-17" x="840.03" width="7.13" height="810"/>
+  <rect class="cls-116" x="854.27" width="7.13" height="810"/>
+  <rect class="cls-107" x="868.51" width="7.13" height="810"/>
+  <rect class="cls-114" x="882.74" width="7.13" height="810"/>
+  <rect class="cls-112" x="896.98" width="7.13" height="810"/>
+  <rect class="cls-32" x="911.22" width="7.13" height="810"/>
+  <rect class="cls-81" x="925.46" width="7.13" height="810"/>
+  <rect class="cls-86" x="939.7" width="7.13" height="810"/>
+  <rect class="cls-87" x="953.93" width="7.13" height="810"/>
+  <rect class="cls-18" x="968.17" width="7.13" height="810"/>
+  <rect class="cls-19" x="982.41" width="7.13" height="810"/>
+  <rect class="cls-31" x="996.65" width="7.13" height="810"/>
+  <rect class="cls-89" x="1010.88" width="7.13" height="810"/>
+  <rect class="cls-103" x="1025.12" width="7.13" height="810"/>
+  <rect class="cls-104" x="1039.36" width="7.13" height="810"/>
+  <rect class="cls-105" x="1053.6" width="7.13" height="810"/>
+  <rect class="cls-90" x="1067.84" width="7.13" height="810"/>
+  <rect class="cls-91" x="1082.07" width="7.13" height="810"/>
+  <rect class="cls-100" x="1096.31" width="7.13" height="810"/>
+  <rect class="cls-88" x="1110.55" width="7.13" height="810"/>
+  <rect class="cls-110" x="1124.79" width="7.13" height="810"/>
+  <rect class="cls-111" x="1139.02" width="7.13" height="810"/>
+  <rect class="cls-117" x="1153.26" width="7.13" height="810"/>
+  <rect class="cls-108" x="1167.5" width="7.13" height="810"/>
+  <rect class="cls-93" x="1181.74" width="7.13" height="810"/>
+  <rect class="cls-109" x="1195.98" width="7.13" height="810"/>
+  <rect class="cls-106" x="1210.21" width="7.13" height="810"/>
+  <rect class="cls-74" x="1224.45" width="7.13" height="810"/>
+  <rect class="cls-68" x="1238.69" width="7.13" height="810"/>
+  <rect class="cls-78" x="1252.93" width="7.13" height="810"/>
+  <rect class="cls-102" x="1267.17" width="7.13" height="810"/>
+  <rect class="cls-97" x="1281.4" width="7.13" height="810"/>
+  <rect class="cls-99" x="1295.64" width="7.13" height="810"/>
+  <rect class="cls-73" x="1309.88" width="7.13" height="810"/>
+  <rect class="cls-98" x="1324.12" width="7.13" height="810"/>
+  <rect class="cls-96" x="1338.35" width="7.13" height="810"/>
+  <rect class="cls-95" x="1352.59" width="7.13" height="810"/>
+  <rect class="cls-101" x="1366.83" width="7.13" height="810"/>
+  <rect class="cls-92" x="1381.07" width="7.13" height="810"/>
+  <rect class="cls-94" x="1395.31" width="7.13" height="810"/>
+  <rect class="cls-115" x="1409.54" width="7.13" height="810"/>
+  <rect class="cls-63" x="1423.78" width="7.13" height="810"/>
+  <rect class="cls-65" x="1438.02" width="7.13" height="810"/>
+  <rect class="cls-66" x="1452.26" width="7.13" height="810"/>
+  <rect class="cls-64" x="1466.49" width="7.13" height="810"/>
+  <rect class="cls-72" x="1480.73" width="7.13" height="810"/>
+  <rect class="cls-76" x="1494.97" width="7.13" height="810"/>
+  <rect class="cls-77" x="1509.21" width="7.13" height="810"/>
+  <rect class="cls-62" x="1523.45" width="7.13" height="810"/>
+  <rect class="cls-70" x="1537.68" width="7.13" height="810"/>
+  <rect class="cls-61" x="1551.92" width="7.13" height="810"/>
+  <rect class="cls-71" x="1566.16" width="7.13" height="810"/>
+  <rect class="cls-79" x="1580.4" width="7.13" height="810"/>
+  <rect class="cls-75" x="1594.63" width="7.13" height="810"/>
+  <rect class="cls-67" x="1608.87" width="7.13" height="810"/>
+  <rect class="cls-69" x="1623.11" width="7.13" height="810"/>
+  <rect class="cls-5" x="1637.35" width="7.13" height="810"/>
+  <rect class="cls-4" x="1651.59" width="7.13" height="810"/>
+</svg>
