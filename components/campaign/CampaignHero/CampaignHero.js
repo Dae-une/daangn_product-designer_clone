@@ -10,27 +10,27 @@ const CampaignHero = () => {
   const viewportWidth = useWindowInnerWidth(-1);
 
   const backgroundSize = viewportWidth > 992 ? 140 : viewportWidth > 576 ? 108 : 80;
-  const transparentOffset = backgroundSize + 40;
+  const transparentOffset = backgroundSize + 20;
+  console.log(backgroundSize);
 
   return (
     <Controller>
-      <Scene duration={2000} pin triggerHook="onLeave">
+      <Scene duration={2200} pin triggerHook="onLeave">
         {(progress) => (
           <div>
             <section
-              // className={styles.hero}
               style={{
                 backgroundSize: `${backgroundSize}px`,
               }}
             >
               <Hero />
-              <Timeline target={<Hero />} totalProgress={progress} paused>
+              <Timeline target={<div css={styles.ShadowBox} />} totalProgress={progress} paused>
                 <Tween
                   from={{
                     backgroundImage: `repeating-linear-gradient(90deg, #212124 0px 0px, transparent 0px ${backgroundSize}px)`,
                   }}
                   to={{
-                    backgroundImage: `repeating-linear-gradient(90deg, #212124 0px ${backgroundSize}px, transparent ${transparentOffset}px ${backgroundSize}px)`,
+                    backgroundImage: `repeating-linear-gradient(90deg, #212124 0px ${transparentOffset}px, transparent 0px ${backgroundSize}px)`,
                   }}
                 />
               </Timeline>

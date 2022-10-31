@@ -17,15 +17,12 @@ const Hero = () => {
     animationDuration: `${vars.web.animationDuration}s`,
   };
 
-  console.log(SlideProps);
-
   return (
-    <div css={styles.TeaserWrap} SlideProps={SlideProps}>
+    <div css={styles.TeaserWrap}>
       <div css={styles.Teaser1} />
       <div css={styles.Teaser2} />
       <div css={styles.Teaser3} />
       <div css={styles.Teaser4} />
-      <div css={styles.ShadowBox} />
     </div>
   );
 };

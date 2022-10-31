@@ -1,25 +1,20 @@
 import { css, keyframes } from '@emotion/react';
 
-const backgroundAni = keyframes`
+const textAni = keyframes`
   from{
-  opacity: 0;
+  opacity: 0.2;
   }
   to {
     opacity: 1;
   }
 `;
 
-export const ShadowBox = css`
-  background-image: repeating-linear-gradient(
-    90deg,
-    rgb(33, 33, 36) 0px,
-    rgb(33, 33, 36) 7.4277px,
-    rgba(48, 48, 51, 0.93) 10.1787px,
-    rgba(48, 48, 51, 0.93) 137.799px
-  );
-
-  z-index: -2;
+const backgroundAni = keyframes`
+  to {
+    transform: translateX(1%);
+  }
 `;
+
 export const TeaserWrap = css`
   overflow: hidden;
   background-color: #00b493;
@@ -41,6 +36,8 @@ export const Teaser1 = css`
   z-index: -9;
   height: 100vh;
   width: 100vw;
+  animation: ${textAni} 2s linear infinite alternate;
+  animation-delay: 0.5;
 `;
 export const Teaser2 = css`
   background-image: url('../../../Static/Teaser/teaser_web_2.svg');
@@ -50,6 +47,8 @@ export const Teaser2 = css`
   left: 0;
   top: 0;
   width: 100vw;
+  animation: ${backgroundAni} 4s linear infinite alternate-reverse;
+  animation-delay: 1.5s;
 `;
 export const Teaser3 = css`
   background-image: url('../../../Static/Teaser/teaser_web_3.svg');
@@ -61,6 +60,8 @@ export const Teaser3 = css`
   top: 0;
   height: 100vh;
   width: 100vw;
+  animation: ${textAni} 2s linear infinite alternate;
+  animation-delay: 1.5s;
 `;
 export const Teaser4 = css`
   background-image: url('../../../Static/Teaser/teaser_web_4.svg');
@@ -69,4 +70,6 @@ export const Teaser4 = css`
   position: absolute;
   left: 0;
   top: 0;
+  animation: ${backgroundAni} 4s linear infinite alternate-reverse;
+  animation-delay: 0.5;
 `;
