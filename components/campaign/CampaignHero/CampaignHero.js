@@ -2,6 +2,7 @@ import React from 'react';
 import { Controller, Scene } from 'react-scrollmagic';
 import { Tween, Timeline } from 'react-gsap';
 import Hero from '../../common/Hero/Hero';
+import HeroText from '../../common/HeroText/HeroText';
 
 import * as styles from './styles';
 import useWindowInnerWidth from '../../../Hooks/useWindowInnerWidth';
@@ -10,8 +11,7 @@ const CampaignHero = () => {
   const viewportWidth = useWindowInnerWidth(-1);
 
   const backgroundSize = viewportWidth > 992 ? 140 : viewportWidth > 576 ? 108 : 80;
-  const transparentOffset = backgroundSize + 20;
-  console.log(backgroundSize);
+  const transparentOffset = backgroundSize + 27;
 
   return (
     <Controller>
@@ -34,7 +34,7 @@ const CampaignHero = () => {
                   }}
                 />
               </Timeline>
-              {/* <HeroText link={false} label="2022.10.14 - 10.30" progress={progress} /> */}
+              <HeroText link={false} label="2022.10.14 - 10.30" progress={progress} />
             </section>
           </div>
         )}
