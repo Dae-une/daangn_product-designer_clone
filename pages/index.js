@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import CampaignHero from '../components/campaign/CampaignHero/CampaignHero';
+import CardSection from '../components/campaign/CardSection/CardSection';
 
 import GNB from '../components/campaign/GNB/GNB';
 import Story from '../components/campaign/Stroy/Story';
@@ -30,6 +31,7 @@ const Home = () => {
       <GNB visible={visible} />
       <CampaignHero />
       <Story />
+      <CardSection />
     </div>
   );
 };
