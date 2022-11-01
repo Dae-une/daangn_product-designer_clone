@@ -2,23 +2,21 @@ import { css, keyframes } from '@emotion/react';
 
 const CardAni = keyframes`
   from {
-    transform: translateX(0);
-  }
-  12% {
-    transform:  translateX(-200%);
+    transform: translateX(0%);
   }
   25% {
-    transform:  translateX(0);
+    transform:  translateX(-70%);
   }
   50% {
-    transform: translateX(200);
+    transform:  translateX(0);
   }
-  63% {
+  75% {
+    transform: translateX(-70%);
+  }
+  to {
     transform:  translate(0);
   }
-  to{
-    transform: translateX(-200%);
-  }
+
 `;
 
 export const CardSectionWrap = css`
@@ -33,5 +31,6 @@ export const CardWrap = css`
   flex-shrink: 0;
   display: flex;
   will-change: transform;
-  animation: ${CardAni} 1800s linear 0s infinite normal;
+  transform-origin: left;
+  animation: ${CardAni} 300s linear 0s infinite;
 `;

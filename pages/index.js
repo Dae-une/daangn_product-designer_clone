@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
+import Benefit from '../components/campaign/Benefit/Benefit';
 import CampaignHero from '../components/campaign/CampaignHero/CampaignHero';
 import CardSection from '../components/campaign/CardSection/CardSection';
 
@@ -32,6 +33,7 @@ const Home = () => {
       <CampaignHero />
       <Story />
       <CardSection />
+      <Benefit />
     </div>
   );
 };
