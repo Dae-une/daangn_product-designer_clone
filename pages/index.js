@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import CampaignHero from '../components/campaign/CampaignHero/CampaignHero';
 
 import GNB from '../components/campaign/GNB/GNB';
+import Story from '../components/campaign/Stroy/Story';
 
 const Home = () => {
   const [visible, setVisible] = useState(false);
@@ -28,6 +29,7 @@ const Home = () => {
     <div ref={scrollRef}>
       <GNB visible={visible} />
       <CampaignHero />
+      <Story />
     </div>
   );
 };

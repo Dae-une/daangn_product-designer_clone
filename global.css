@@ -22,8 +22,8 @@ span {
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: var(--seed-semantic-color-paper-default);
-  color: var(--seed-static-color-static-white);
+  background-color: #212124;
+  color: #fff;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
     Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
   padding-bottom: env(safe-area-inset-bottom);

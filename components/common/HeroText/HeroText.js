@@ -3,7 +3,7 @@ import * as styles from './styles';
 import { Timeline, Tween } from 'react-gsap';
 
 const teaserTitleText = {
-  title: '당근마켓\n프로덕트 디자이너를\n소개합니다.',
+  title: '당근마켓\n프로덕트 디자이너를\n기다립니다.',
   subTitle: '당근마켓 FOCUS 채용',
 };
 
@@ -27,19 +27,7 @@ const HeroText = ({ progress }) => {
         </Timeline>
       </div>
       <div css={styles.MainTitleWrapper}>
-        <Timeline
-          paused
-          totalProgress={progress}
-          target={
-            <h1 css={styles.TitleText}>
-              당근마켓
-              <br />
-              프로덕트 디자이너를
-              <br />
-              기다립니다
-            </h1>
-          }
-        >
+        <Timeline paused totalProgress={progress} target={<h1 css={styles.TitleText}>{teaserTitleText.title}</h1>}>
           <Tween
             from={{
               backgroundImage: 'linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 100%)',

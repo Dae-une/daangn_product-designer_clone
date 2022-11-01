@@ -42,7 +42,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:8861fb08c6dac5643cbf33b36c093944e7d234ea71487a2260552589c8375ff46d9aa776fa44fe34b9440d28cba7c1d1f9f981c8dc882a44639e44d7cb58f983#npm:18.2.0"],\
             ["react-gsap", "virtual:8861fb08c6dac5643cbf33b36c093944e7d234ea71487a2260552589c8375ff46d9aa776fa44fe34b9440d28cba7c1d1f9f981c8dc882a44639e44d7cb58f983#npm:3.2.1"],\
-            ["react-scrollmagic", "virtual:8861fb08c6dac5643cbf33b36c093944e7d234ea71487a2260552589c8375ff46d9aa776fa44fe34b9440d28cba7c1d1f9f981c8dc882a44639e44d7cb58f983#npm:2.3.0"]\
+            ["react-scrollmagic", "virtual:8861fb08c6dac5643cbf33b36c093944e7d234ea71487a2260552589c8375ff46d9aa776fa44fe34b9440d28cba7c1d1f9f981c8dc882a44639e44d7cb58f983#npm:2.3.0"],\
+            ["simple-reveal", "virtual:8861fb08c6dac5643cbf33b36c093944e7d234ea71487a2260552589c8375ff46d9aa776fa44fe34b9440d28cba7c1d1f9f981c8dc882a44639e44d7cb58f983#npm:0.6.0"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -1016,7 +1017,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:8861fb08c6dac5643cbf33b36c093944e7d234ea71487a2260552589c8375ff46d9aa776fa44fe34b9440d28cba7c1d1f9f981c8dc882a44639e44d7cb58f983#npm:18.2.0"],\
             ["react-gsap", "virtual:8861fb08c6dac5643cbf33b36c093944e7d234ea71487a2260552589c8375ff46d9aa776fa44fe34b9440d28cba7c1d1f9f981c8dc882a44639e44d7cb58f983#npm:3.2.1"],\
-            ["react-scrollmagic", "virtual:8861fb08c6dac5643cbf33b36c093944e7d234ea71487a2260552589c8375ff46d9aa776fa44fe34b9440d28cba7c1d1f9f981c8dc882a44639e44d7cb58f983#npm:2.3.0"]\
+            ["react-scrollmagic", "virtual:8861fb08c6dac5643cbf33b36c093944e7d234ea71487a2260552589c8375ff46d9aa776fa44fe34b9440d28cba7c1d1f9f981c8dc882a44639e44d7cb58f983#npm:2.3.0"],\
+            ["simple-reveal", "virtual:8861fb08c6dac5643cbf33b36c093944e7d234ea71487a2260552589c8375ff46d9aa776fa44fe34b9440d28cba7c1d1f9f981c8dc882a44639e44d7cb58f983#npm:0.6.0"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -2842,6 +2844,28 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["call-bind", "npm:1.0.2"],\
             ["get-intrinsic", "npm:1.1.3"],\
             ["object-inspect", "npm:1.12.2"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["simple-reveal", [\
+        ["npm:0.6.0", {\
+          "packageLocation": "./.yarn/cache/simple-reveal-npm-0.6.0-b4b30c6030-43688ab95d.zip/node_modules/simple-reveal/",\
+          "packageDependencies": [\
+            ["simple-reveal", "npm:0.6.0"]\
+          ],\
+          "linkType": "SOFT"\
+        }],\
+        ["virtual:8861fb08c6dac5643cbf33b36c093944e7d234ea71487a2260552589c8375ff46d9aa776fa44fe34b9440d28cba7c1d1f9f981c8dc882a44639e44d7cb58f983#npm:0.6.0", {\
+          "packageLocation": "./.yarn/__virtual__/simple-reveal-virtual-c079204a61/0/cache/simple-reveal-npm-0.6.0-b4b30c6030-43688ab95d.zip/node_modules/simple-reveal/",\
+          "packageDependencies": [\
+            ["simple-reveal", "virtual:8861fb08c6dac5643cbf33b36c093944e7d234ea71487a2260552589c8375ff46d9aa776fa44fe34b9440d28cba7c1d1f9f981c8dc882a44639e44d7cb58f983#npm:0.6.0"],\
+            ["@types/react", null],\
+            ["react", "npm:18.2.0"]\
+          ],\
+          "packagePeers": [\
+            "@types/react",\
+            "react"\
           ],\
           "linkType": "HARD"\
         }]\

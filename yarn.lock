@@ -777,6 +777,7 @@ __metadata:
     react-dom: ^18.2.0
     react-gsap: ^3.2.1
     react-scrollmagic: ^2.3.0
+    simple-reveal: ^0.6.0
   languageName: unknown
   linkType: soft
 
@@ -2298,6 +2299,15 @@ __metadata:
     get-intrinsic: ^1.0.2
     object-inspect: ^1.9.0
   checksum: 351e41b947079c10bd0858364f32bb3a7379514c399edb64ab3dce683933483fc63fb5e4efe0a15a2e8a7e3c436b6a91736ddb8d8c6591b0460a24bb4a1ee245
+  languageName: node
+  linkType: hard
+
+"simple-reveal@npm:^0.6.0":
+  version: 0.6.0
+  resolution: "simple-reveal@npm:0.6.0"
+  peerDependencies:
+    react: ">=16.8.0"
+  checksum: 43688ab95d024c79b546e3edbc6403773b377a047862616b6a0d5d17c62836ad306024366aa66baea5e263f46ca9bf086f088d04bcc10c96153a3b3b73811cf9
   languageName: node
   linkType: hard
 
