@@ -32,7 +32,7 @@ const FaqItem = ({ id, question, answer, open, onClick }) => {
           inital="collapsed"
           animate={open ? 'open' : 'collapsed'}
         >
-          <div css={styles.Answer} aria-hidden={!open} dangerouslySetInnerHTML={{ __html: answer }} />
+          <div css={styles.Answer} dangerouslySetInnerHTML={{ __html: answer }} />
         </motion.div>
       </div>
     </div>
