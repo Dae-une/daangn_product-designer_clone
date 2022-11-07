@@ -4,3 +4,4 @@
 ## [Concurrent React](https://velog.io/@dae_eun2/Concurrent-React)
 ##  [useSyncExternalStore](https://velog.io/@dae_eun2/useSyncExternalStore)
 ## [Framer-motion](https://velog.io/@dae_eun2/Framer-motion)
+## [simple-reveal](https://github.com/daangn/simple-reveal)
